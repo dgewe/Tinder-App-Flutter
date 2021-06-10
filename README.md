@@ -67,6 +67,10 @@ Flutter, Dart
 
 ## Setup
 
+#### (IMPORTANT) Flutter SDK
+* Tested and works with Flutter SDK >=1.22.0 <=1.22.4 
+* [Flutter SDK Releases](https://flutter.dev/docs/development/tools/sdk/releases)
+
 #### Requirements
 * Basic knowledge about Flutter
 * Basic knowledge about Android
