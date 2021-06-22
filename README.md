@@ -67,14 +67,11 @@ Flutter, Dart
 
 ## Setup
 
-#### (IMPORTANT) Flutter SDK
-* Tested and works with Flutter SDK version 1.22.4 
-* [Flutter SDK Releases](https://flutter.dev/docs/development/tools/sdk/releases)
-
 #### Requirements
 * Basic knowledge about Flutter
 * Basic knowledge about Android
 * Basic knowledge about Firebase
+* Flutter SDK version >= 2.0.0 (tested and works with 2.0.0)
 
 #### Firebase
 * Setup Authentication and use the Sign-in method 'Email/Password'

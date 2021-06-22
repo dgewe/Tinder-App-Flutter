@@ -116,7 +116,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        resizeToAvoidBottomPadding: false,
+        resizeToAvoidBottomInset: false,
         key: _scaffoldKey,
         appBar: AppBar(title: Text('Register')),
         body: CustomModalProgressHUD(
